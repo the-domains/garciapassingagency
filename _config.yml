@@ -1,0 +1,28 @@
+name: GarciaPassingAgency
+favicon: null
+layout_spectrum: 0.021280282642692327
+typography_spectrum: 0.8132216725498438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9231549564283341
+  lightness: 0.7909865230321884
+  saturation: 0.9282568274065852
+  rhythmicContrast: 0.19079503836110234
+purpose: []
